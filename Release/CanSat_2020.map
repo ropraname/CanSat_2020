@@ -1,0 +1,1146 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+                              ./Sources/bmp280_i2c.o (__mulsi3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+                              ./Sources/i2c_avr.o (__udivmodhi4)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+                              ./Sources/bmp280_i2c.o (__udivmodsi4)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o (exit)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+                              ./Sources/main.o (__do_copy_data)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+                              ./Sources/adxl345_i2c.o (__do_clear_bss)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+                              ./Sources/bmp280_i2c.o (__muluhisi3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+                              ./Sources/bmp280_i2c.o (__mulshisi3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+                              ./Sources/romsearch.o (__ashldi3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+                              ./Sources/romsearch.o (__cmpdi2)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+                              ./Sources/romsearch.o (__cmpdi2_s8)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o) (__umulhisi3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                              ./Sources/bmp280_i2c.o (__subsf3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o) (__addsf3x)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                              ./Sources/bmp280_i2c.o (__eqsf2)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                              ./Sources/bmp280_i2c.o (__divsf3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3.o) (__divsf3x)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              ./Sources/bmp280_i2c.o (__floatunsisf)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_inf)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_nan)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscA)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscB)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o) (__fp_round)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_split3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_zero)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              ./Sources/adxl345_i2c.o (__mulsf3)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o)
+                              ./Sources/bmp280_i2c.o (pow)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o)
+                              ./Sources/main.o (sqrt)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o) (exp)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o) (__fp_mpack)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_norm2.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o) (__fp_norm2)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o) (__fp_powser)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(inverse.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o) (inverse)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(ldexp.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o) (ldexp)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(log.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o) (log)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(modf.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o) (modf)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(fputc.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+                              ./Sources/main.o (__iob)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(printf.o)
+                              ./Sources/main.o (printf)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+                              ./Sources/main.o (puts)
+c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                              c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+
+Allocating common symbols
+Common symbol       size              file
+
+dig_P7              0x2               ./Sources/bmp280_i2c.o
+dig_T1              0x2               ./Sources/bmp280_i2c.o
+ADXL345_dev_addr    0x1               ./Sources/adxl345_i2c.o
+dig_T2              0x2               ./Sources/bmp280_i2c.o
+dig_P2              0x2               ./Sources/bmp280_i2c.o
+dig_P4              0x2               ./Sources/bmp280_i2c.o
+BMP280_dev_addr     0x1               ./Sources/bmp280_i2c.o
+dig_P5              0x2               ./Sources/bmp280_i2c.o
+dig_P1              0x2               ./Sources/bmp280_i2c.o
+dig_P3              0x2               ./Sources/bmp280_i2c.o
+dig_P8              0x2               ./Sources/bmp280_i2c.o
+dig_P9              0x2               ./Sources/bmp280_i2c.o
+dig_T3              0x2               ./Sources/bmp280_i2c.o
+dig_P6              0x2               ./Sources/bmp280_i2c.o
+__iob               0x6               c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+t_fine              0x4               ./Sources/bmp280_i2c.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800100         0x0000ff00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+LOAD ./Sources/adxl345_i2c.o
+LOAD ./Sources/bmp280_i2c.o
+LOAD ./Sources/ds18b20.o
+LOAD ./Sources/i2c_avr.o
+LOAD ./Sources/main.o
+LOAD ./Sources/onewire.o
+LOAD ./Sources/romsearch.o
+LOAD ./Sources/uart.o
+LOAD c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a
+START GROUP
+LOAD c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a
+LOAD c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a
+LOAD c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a
+LOAD c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libatmega128.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ff00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xff00
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2f5a
+ *(.vectors)
+ .vectors       0x00000000       0x8c c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_fplib
+                0x0000008c       0x28 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o)
+ .progmem.gcc_fplib
+                0x000000b4       0x5a c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(log.o)
+                0x0000010e                . = ALIGN (0x2)
+                0x0000010e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000010e        0x0 linker stubs
+ *(.trampolines*)
+                0x0000010e                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ .progmem.data  0x0000010e        0x8 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ *libc.a:*(.progmem.data)
+ .progmem.data  0x00000116       0xfa c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ *(.progmem*)
+                0x00000210                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000210                __ctors_start = .
+ *(.ctors)
+                0x00000210                __ctors_end = .
+                0x00000210                __dtors_start = .
+ *(.dtors)
+                0x00000210                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000210        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+                0x00000210                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000210        0xc c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000021c       0x1a c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+                0x0000021c                __do_copy_data
+ .init4         0x00000236       0x10 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+                0x00000236                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000246        0x8 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+ *(.init9)
+ *(.text)
+ .text          0x0000024e        0x4 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+                0x0000024e                __vector_22
+                0x0000024e                __vector_28
+                0x0000024e                __vector_1
+                0x0000024e                __vector_32
+                0x0000024e                __vector_34
+                0x0000024e                __vector_24
+                0x0000024e                __vector_12
+                0x0000024e                __bad_interrupt
+                0x0000024e                __vector_6
+                0x0000024e                __vector_31
+                0x0000024e                __vector_3
+                0x0000024e                __vector_23
+                0x0000024e                __vector_30
+                0x0000024e                __vector_25
+                0x0000024e                __vector_11
+                0x0000024e                __vector_13
+                0x0000024e                __vector_17
+                0x0000024e                __vector_19
+                0x0000024e                __vector_7
+                0x0000024e                __vector_27
+                0x0000024e                __vector_5
+                0x0000024e                __vector_33
+                0x0000024e                __vector_4
+                0x0000024e                __vector_9
+                0x0000024e                __vector_2
+                0x0000024e                __vector_21
+                0x0000024e                __vector_15
+                0x0000024e                __vector_29
+                0x0000024e                __vector_8
+                0x0000024e                __vector_26
+                0x0000024e                __vector_14
+                0x0000024e                __vector_10
+                0x0000024e                __vector_16
+                0x0000024e                __vector_18
+                0x0000024e                __vector_20
+ .text          0x00000252        0x0 ./Sources/adxl345_i2c.o
+ .text          0x00000252        0x0 ./Sources/bmp280_i2c.o
+ .text          0x00000252        0x0 ./Sources/ds18b20.o
+ .text          0x00000252        0x0 ./Sources/i2c_avr.o
+ .text          0x00000252        0x0 ./Sources/main.o
+ .text          0x00000252        0x0 ./Sources/onewire.o
+ .text          0x00000252        0x0 ./Sources/romsearch.o
+ .text          0x00000252        0x0 ./Sources/uart.o
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_norm2.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(inverse.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(ldexp.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(log.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(modf.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(printf.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+ .text          0x00000252        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00000252                . = ALIGN (0x2)
+ *(.text.*)
+ .text.ADXL345_searchDevice
+                0x00000252       0x30 ./Sources/adxl345_i2c.o
+                0x00000252                ADXL345_searchDevice
+ .text.ADXL345_configuration
+                0x00000282        0xc ./Sources/adxl345_i2c.o
+                0x00000282                ADXL345_configuration
+ .text.ADXL345_powerOn
+                0x0000028e        0xc ./Sources/adxl345_i2c.o
+                0x0000028e                ADXL345_powerOn
+ .text.ADXL345_begin
+                0x0000029a       0x24 ./Sources/adxl345_i2c.o
+                0x0000029a                ADXL345_begin
+ .text.ADXL345_readXYZ_raw
+                0x000002be       0x8a ./Sources/adxl345_i2c.o
+                0x000002be                ADXL345_readXYZ_raw
+ .text.ADXL345_readXYZ
+                0x00000348       0xc8 ./Sources/adxl345_i2c.o
+                0x00000348                ADXL345_readXYZ
+ .text.BMP280_write8
+                0x00000410        0xc ./Sources/bmp280_i2c.o
+                0x00000410                BMP280_write8
+ .text.BMP280_read8
+                0x0000041c       0x26 ./Sources/bmp280_i2c.o
+                0x0000041c                BMP280_read8
+ .text.BMP280_read16
+                0x00000442       0x32 ./Sources/bmp280_i2c.o
+                0x00000442                BMP280_read16
+ .text.BMP280_read16_LE
+                0x00000474        0xc ./Sources/bmp280_i2c.o
+                0x00000474                BMP280_read16_LE
+ .text.BMP280_readS16_LE
+                0x00000480        0x4 ./Sources/bmp280_i2c.o
+                0x00000480                BMP280_readS16_LE
+ .text.BMP280_read24
+                0x00000484       0x50 ./Sources/bmp280_i2c.o
+                0x00000484                BMP280_read24
+ .text.BMP280_readCoefficients
+                0x000004d4       0xaa ./Sources/bmp280_i2c.o
+                0x000004d4                BMP280_readCoefficients
+ .text.BMP280_begin
+                0x0000057e       0x22 ./Sources/bmp280_i2c.o
+                0x0000057e                BMP280_begin
+ .text.BMP280_readTemperature
+                0x000005a0      0x10e ./Sources/bmp280_i2c.o
+                0x000005a0                BMP280_readTemperature
+ .text.BMP280_readPressure
+                0x000006ae      0x2fe ./Sources/bmp280_i2c.o
+                0x000006ae                BMP280_readPressure
+ .text.BMP280_readPressure_float
+                0x000009ac      0x342 ./Sources/bmp280_i2c.o
+                0x000009ac                BMP280_readPressure_float
+ .text.BMP280_altitude
+                0x00000cee       0x40 ./Sources/bmp280_i2c.o
+                0x00000cee                BMP280_altitude
+ .text.BMP280_receiveData
+                0x00000d2e       0x54 ./Sources/bmp280_i2c.o
+                0x00000d2e                BMP280_receiveData
+ .text.ds18b20crc8
+                0x00000d82       0x28 ./Sources/ds18b20.o
+                0x00000d82                ds18b20crc8
+ .text.ds18b20match
+                0x00000daa       0x6e ./Sources/ds18b20.o
+                0x00000daa                ds18b20match
+ .text.ds18b20convert
+                0x00000e18       0x52 ./Sources/ds18b20.o
+                0x00000e18                ds18b20convert
+ .text.ds18b20rsp
+                0x00000e6a       0xb8 ./Sources/ds18b20.o
+                0x00000e6a                ds18b20rsp
+ .text.ds18b20wsp
+                0x00000f22       0x88 ./Sources/ds18b20.o
+                0x00000f22                ds18b20wsp
+ .text.ds18b20csp
+                0x00000faa       0x62 ./Sources/ds18b20.o
+                0x00000faa                ds18b20csp
+ .text.ds18b20read
+                0x0000100c       0x6c ./Sources/ds18b20.o
+                0x0000100c                ds18b20read
+ .text.ds18b20rom
+                0x00001078       0xd0 ./Sources/ds18b20.o
+                0x00001078                ds18b20rom
+ .text.ds18b20read_temp
+                0x00001148       0x7c ./Sources/ds18b20.o
+                0x00001148                ds18b20read_temp
+ .text.I2CInit  0x000011c4       0x20 ./Sources/i2c_avr.o
+                0x000011c4                I2CInit
+ .text.I2CClose
+                0x000011e4        0xc ./Sources/i2c_avr.o
+                0x000011e4                I2CClose
+ .text.I2CStart
+                0x000011f0       0x10 ./Sources/i2c_avr.o
+                0x000011f0                I2CStart
+ .text.I2CStop  0x00001200       0x10 ./Sources/i2c_avr.o
+                0x00001200                I2CStop
+ .text.I2CWriteByte
+                0x00001210       0x3a ./Sources/i2c_avr.o
+                0x00001210                I2CWriteByte
+ .text.I2CReadByte
+                0x0000124a       0x48 ./Sources/i2c_avr.o
+                0x0000124a                I2CReadByte
+ .text.I2CWriteRegister
+                0x00001292       0x56 ./Sources/i2c_avr.o
+                0x00001292                I2CWriteRegister
+ .text.I2CReadBytes
+                0x000012e8       0x6c ./Sources/i2c_avr.o
+                0x000012e8                I2CReadBytes
+ .text.USART_PutChar
+                0x00001354       0x1a ./Sources/main.o
+ .text.startup.main
+                0x0000136e      0x2ae ./Sources/main.o
+                0x0000136e                main
+ .text.onewireInit
+                0x0000161c       0x72 ./Sources/onewire.o
+                0x0000161c                onewireInit
+ .text.onewireWriteBit
+                0x0000168e       0x5a ./Sources/onewire.o
+                0x0000168e                onewireWriteBit
+ .text.onewireWrite
+                0x000016e8       0x60 ./Sources/onewire.o
+                0x000016e8                onewireWrite
+ .text.onewireReadBit
+                0x00001748       0x48 ./Sources/onewire.o
+                0x00001748                onewireReadBit
+ .text.onewireRead
+                0x00001790       0x64 ./Sources/onewire.o
+                0x00001790                onewireRead
+ .text.ds18b20search
+                0x000017f4      0x33c ./Sources/romsearch.o
+                0x000017f4                ds18b20search
+ .text.USART_Init
+                0x00001b30       0x28 ./Sources/uart.o
+                0x00001b30                USART_Init
+ .text.USART_SendByte
+                0x00001b58        0x8 ./Sources/uart.o
+                0x00001b58                USART_SendByte
+ .text.USART_Receive
+                0x00001b60        0x8 ./Sources/uart.o
+                0x00001b60                USART_Receive
+ .text.USART_SendByteArray
+                0x00001b68       0x3e ./Sources/uart.o
+                0x00001b68                USART_SendByteArray
+ .text.avr-libc
+                0x00001ba6      0x74a c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                0x00001ba6                vfprintf
+ .text.libgcc.mul
+                0x000022f0       0x20 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+                0x000022f0                __mulsi3
+ .text.libgcc.div
+                0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x00002310        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00002310       0x28 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+                0x00002310                __udivmodhi4
+ .text.libgcc   0x00002338        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00002338        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00002338        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00002338        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00002338        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00002338        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x00002338       0x44 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+                0x00002338                __udivmodsi4
+ .text.libgcc   0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0000237c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000237c       0x16 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+                0x0000237c                __muluhisi3
+ .text.libgcc.div
+                0x00002392        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00002392        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00002392        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00002392        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00002392        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00002392        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x00002392       0x10 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+                0x00002392                __mulshisi3
+                0x00002398                __mulohisi3
+ .text.libgcc.div
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x000023a2        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.builtins
+                0x000023a2       0x32 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+                0x000023a2                __ashldi3
+ .text.libgcc.fmul
+                0x000023d4        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x000023d4        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x000023d4        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.div
+                0x000023d4        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc   0x000023d4       0x12 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+                0x000023d4                __cmpdi2
+ .text.libgcc.prologue
+                0x000023e6        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.builtins
+                0x000023e6        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fmul
+                0x000023e6        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fixed
+                0x000023e6        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .text.libgcc.mul
+                0x000023e6        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x000023e6        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc   0x000023e6       0x18 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+                0x000023e6                __cmpdi2_s8
+ .text.libgcc.prologue
+                0x000023fe        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x000023fe        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x000023fe        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x000023fe        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.mul
+                0x000023fe       0x1e c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+                0x000023fe                __umulhisi3
+ .text.libgcc.div
+                0x0000241c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000241c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000241c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000241c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000241c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x0000241c        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .text.avr-libc.fplib
+                0x0000241c        0xe c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                0x0000241c                __subsf3
+                0x0000241e                __addsf3
+ .text.avr-libc.fplib
+                0x0000242a       0xcc c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                0x0000244c                __addsf3x
+ .text.avr-libc.fplib
+                0x000024f6        0xa c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+                0x000024f6                __nesf2
+                0x000024f6                __eqsf2
+                0x000024f6                __cmpsf2
+                0x000024f6                __ltsf2
+                0x000024f6                __lesf2
+ .text.avr-libc.fplib
+                0x00002500        0x8 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3.o)
+                0x00002500                __divsf3
+ .text.avr-libc.fplib
+                0x00002508       0xdc c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+                0x00002528                __divsf3x
+                0x0000252e                __divsf3_pse
+ .text.avr-libc.fplib
+                0x000025e4       0x7a c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                0x000025e4                __floatunsisf
+                0x000025e8                __floatsisf
+ .text.avr-libc.fplib
+                0x0000265e       0x48 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+                0x0000265e                __fp_cmp
+ .text.avr-libc.fplib
+                0x000026a6        0xc c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                0x000026a6                __fp_inf
+ .text.avr-libc.fplib
+                0x000026b2        0x6 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                0x000026b2                __fp_nan
+ .text.avr-libc.fplib
+                0x000026b8        0xe c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                0x000026b8                __fp_pscA
+ .text.avr-libc.fplib
+                0x000026c6        0xe c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                0x000026c6                __fp_pscB
+ .text.avr-libc.fplib
+                0x000026d4       0x22 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                0x000026d4                __fp_round
+ .text.avr-libc.fplib
+                0x000026f6       0x44 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                0x000026f6                __fp_split3
+                0x00002706                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000273a        0xe c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                0x0000273a                __fp_zero
+                0x0000273c                __fp_szero
+ .text.avr-libc.fplib
+                0x00002748        0x8 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                0x00002748                __mulsf3
+ .text.avr-libc.fplib
+                0x00002750       0xd2 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                0x0000276e                __mulsf3x
+                0x00002774                __mulsf3_pse
+ .text.avr-libc.fplib
+                0x00002822       0xa0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o)
+                0x00002822                pow
+ .text.avr-libc.fplib
+                0x000028c2       0x8c c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o)
+                0x000028ce                sqrtf
+                0x000028ce                sqrt
+ .text.avr-libc.fplib
+                0x0000294e       0x74 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o)
+                0x0000295e                exp
+ .text.avr-libc.fplib
+                0x000029c2       0x1c c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+                0x000029c2                __fp_mpack
+                0x000029c6                __fp_mpack_finite
+ .text.avr-libc.fplib
+                0x000029de        0xe c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_norm2.o)
+                0x000029de                __fp_norm2
+ .text.avr-libc.fplib
+                0x000029ec       0x4e c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+                0x000029ec                __fp_powser
+ .text.avr-libc.fplib
+                0x00002a3a       0x10 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(inverse.o)
+                0x00002a3a                inverse
+ .text.avr-libc.fplib
+                0x00002a4a       0x74 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(ldexp.o)
+                0x00002a52                ldexp
+ .text.avr-libc.fplib
+                0x00002abe       0xa0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(log.o)
+                0x00002ace                log
+ .text.avr-libc.fplib
+                0x00002b5e       0x68 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(modf.o)
+                0x00002b5e                modf
+                0x00002b5e                modff
+ .text.avr-libc
+                0x00002bc6      0x1b0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+                0x00002bc6                __ftoa_engine
+ .text.avr-libc
+                0x00002d76       0x16 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+                0x00002d76                strnlen_P
+ .text.avr-libc
+                0x00002d8c       0x16 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen.o)
+                0x00002d8c                strnlen
+ .text.avr-libc
+                0x00002da2       0x70 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(fputc.o)
+                0x00002da2                fputc
+ .text.avr-libc
+                0x00002e12       0x28 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(printf.o)
+                0x00002e12                printf
+ .text.avr-libc
+                0x00002e3a       0x60 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+                0x00002e3a                puts
+ .text.avr-libc
+                0x00002e9a       0xbc c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+                0x00002e9a                __ultoa_invert
+                0x00002f56                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002f56        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+                0x00002f56                _exit
+                0x00002f56                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002f56        0x4 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002f5a                _etext = .
+
+.data           0x00800100       0xdc load address 0x00002f5a
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+ .data          0x00800100        0x0 ./Sources/adxl345_i2c.o
+ .data          0x00800100        0x0 ./Sources/bmp280_i2c.o
+ .data          0x00800100        0x0 ./Sources/ds18b20.o
+ .data          0x00800100        0x0 ./Sources/i2c_avr.o
+ .data          0x00800100        0x0 ./Sources/main.o
+ .data          0x00800100        0x0 ./Sources/onewire.o
+ .data          0x00800100        0x0 ./Sources/romsearch.o
+ .data          0x00800100        0x0 ./Sources/uart.o
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_norm2.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(inverse.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(ldexp.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(log.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(modf.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(printf.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+ .data          0x00800100        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ *(.data*)
+ .data.mystdout
+                0x00800100        0xe ./Sources/main.o
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080010e       0xcd ./Sources/main.o
+ *(.gnu.linkonce.d*)
+                0x008001dc                . = ALIGN (0x2)
+ *fill*         0x008001db        0x1 
+                0x008001dc                _edata = .
+                0x008001dc                PROVIDE (__data_end, .)
+
+.bss            0x008001dc       0x25
+                0x008001dc                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+ .bss           0x008001dc        0x0 ./Sources/adxl345_i2c.o
+ .bss           0x008001dc        0x0 ./Sources/bmp280_i2c.o
+ .bss           0x008001dc        0x0 ./Sources/ds18b20.o
+ .bss           0x008001dc        0x0 ./Sources/i2c_avr.o
+ .bss           0x008001dc        0x0 ./Sources/main.o
+ .bss           0x008001dc        0x0 ./Sources/onewire.o
+ .bss           0x008001dc        0x0 ./Sources/romsearch.o
+ .bss           0x008001dc        0x0 ./Sources/uart.o
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulsi3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodhi4.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_udivmodsi4.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_exit.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_copy_data.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_muluhisi3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_mulshisi3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_ashldi3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr51\libgcc.a(_umulhisi3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(cmpsf2.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(divsf3x.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_cmp.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(pow.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(sqrt.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(exp.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_mpack.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_norm2.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(fp_powser.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(inverse.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(ldexp.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(log.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libm.a(modf.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ftoa_engine.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen_P.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(strnlen.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(printf.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+ .bss           0x008001dc        0x0 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(ultoa_invert.o)
+ *(.bss*)
+ .bss.BMP280_ErrData
+                0x008001dc        0x1 ./Sources/bmp280_i2c.o
+                0x008001dc                BMP280_ErrData
+ *(COMMON)
+ COMMON         0x008001dd        0x1 ./Sources/adxl345_i2c.o
+                0x008001dd                ADXL345_dev_addr
+ COMMON         0x008001de       0x1d ./Sources/bmp280_i2c.o
+                0x008001de                dig_P7
+                0x008001e0                dig_T1
+                0x008001e2                dig_T2
+                0x008001e4                dig_P2
+                0x008001e6                dig_P4
+                0x008001e8                BMP280_dev_addr
+                0x008001e9                dig_P5
+                0x008001eb                dig_P1
+                0x008001ed                dig_P3
+                0x008001ef                dig_P8
+                0x008001f1                dig_P9
+                0x008001f3                dig_T3
+                0x008001f5                dig_P6
+                0x008001f7                t_fine
+ COMMON         0x008001fb        0x6 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+                0x008001fb                __iob
+                0x00800201                PROVIDE (__bss_end, .)
+                0x00002f5a                __data_load_start = LOADADDR (.data)
+                0x00003036                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800201        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800201                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 ./Sources/adxl345_i2c.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ./Sources/bmp280_i2c.o
+ .comment       0x00000030       0x31 ./Sources/ds18b20.o
+ .comment       0x00000030       0x31 ./Sources/i2c_avr.o
+ .comment       0x00000030       0x31 ./Sources/main.o
+ .comment       0x00000030       0x31 ./Sources/onewire.o
+ .comment       0x00000030       0x31 ./Sources/romsearch.o
+ .comment       0x00000030       0x31 ./Sources/uart.o
+ .comment       0x00000030       0x2c c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libprintf_flt.a(vfprintf_flt.o)
+                                 0x2d (size before relaxing)
+ .comment       0x0000005c       0x31 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(fputc.o)
+ .comment       0x0000005c       0x31 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(iob.o)
+ .comment       0x0000005c       0x31 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(printf.o)
+ .comment       0x0000005c       0x31 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51\libc.a(puts.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000      0x780
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x780 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+
+.debug_abbrev   0x00000000      0x718
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x718 c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+
+.debug_line     0x00000000       0x1a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1a c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x27d
+ *(.debug_str)
+ .debug_str     0x00000000      0x27d c:/users/ysatt/eclipse/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr51/crtatmega128.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(CanSat_2020.elf elf32-avr)
+LOAD linker stubs

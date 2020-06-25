@@ -8,7 +8,6 @@
 #include "adxl345_i2c.h"
 #include "ds18b20.h"
 #include "i2c_avr.h"
-//#define F_CPU 8000000// Clock Speed
 
 static int8_t USART_PutChar(char c, FILE *stream);
 static FILE mystdout = FDEV_SETUP_STREAM(USART_PutChar, NULL, _FDEV_SETUP_WRITE);
